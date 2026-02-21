@@ -1,6 +1,6 @@
 # Stock Graphing Methods in R
 
-Exploring visualization techniques for stock market data using R, inspired by [Different Ways to Graph Stock Data In R](https://www.youtube.com/watch?v=2ALx_Nb6_9c). 
+Exploring visualization techniques for stocks using R, inspired by [Different Ways to Graph Stock Data In R](https://www.youtube.com/watch?v=2ALx_Nb6_9c). 
 
 ## Features
 - Pulls real-time stock data via `quantmod`.
